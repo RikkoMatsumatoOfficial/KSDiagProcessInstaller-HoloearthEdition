@@ -1,2 +1,2 @@
-# KSDiagProcessInstaller-HoloearthInstaller
-KSDiagProcessInstaller-HoloearthInstaller by RikkoMatsumatoOfficial
+# KSDiagProcessInstaller-HoloearthEdition
+KSDiagProcessInstaller-HoloearthEdition by RikkoMatsumatoOfficial
